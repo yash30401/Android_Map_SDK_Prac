@@ -16,7 +16,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnMapView.setOnClickListener {
+            val latitude = binding.etLatitude.text.toString()
+            val longitude = binding.etLongitude.text.toString()
+
             Intent(this, MapViewActivity::class.java).also {
+                it.putExtra("Latitude",latitude)
+                it.putExtra("Longitude",longitude)
                 startActivity(it)
             }
         }
