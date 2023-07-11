@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227043907755",
+    "project_id": "android-mapssdk-prac",
+    "storage_bucket": "android-mapssdk-prac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227043907755:android:fe79947b93556c0c367fee",
+        "android_client_info": {
+          "package_name": "com.devyash.mapprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227043907755-cqeo205v88r8t4gsm0oshggoe5odf7li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6tDhxz0K_P3OaLPvjhHqWOARIMdwXWLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227043907755-cqeo205v88r8t4gsm0oshggoe5odf7li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
